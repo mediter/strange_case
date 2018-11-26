@@ -35,8 +35,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-highlighter: coderay
-theme: minima
+
+# changed highlighter from coderay to rouge according to github instruction
+highlighter: rouge
+
+theme: strange_case
 plugins:
   - jekyll-feed
 
