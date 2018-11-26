@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   software development from inside the amazing GFW
 
 
-baseurl: /blog # the subpath of your site, e.g. /blog/
+baseurl: /strange_case # the subpath of your site, e.g. /blog/
 
 # if testing locally, remember to comment out the line contains "url:"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
