@@ -39,7 +39,6 @@ markdown: kramdown
 # changed highlighter from coderay to rouge according to github instruction
 highlighter: rouge
 
-theme: strange_case
 plugins:
   - jekyll-feed
 
